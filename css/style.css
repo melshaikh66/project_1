@@ -2,6 +2,7 @@
 .container{width: 1170px;margin:auto}
 .clearfix{clear: both}
 /* end main rules */
+
 /* start header */
 .header .slider{
   background-image: url('../images/008.jpg');
@@ -60,6 +61,7 @@
   color: #32ca73;
 }
 /* end header */
+
 /* start features */
 .features{
   overflow: hidden;
@@ -138,6 +140,7 @@ width: 85%;
   font-weight: bold;
 }
 /* end my skills */
+
 /* start resume */
 .resume{
   background-color: #f2f2f2;
@@ -149,6 +152,7 @@ width: 85%;
 .resume button{margin-top: 20px}
 .resume p{padding: 0 40px}
 /* end resume */
+
 /* start my education */
 .my-education{padding-top: 50px;padding-bottom: 70px;overflow: hidden}
 .my-education .main {width: 50%;margin-right: 5%}
@@ -171,6 +175,7 @@ width: 85%;
   height: 1px;
   border: 0}
 /* end my education */
+
 /* start testimonials */
 .testimonials{
   background-color: #f2f2f2;
@@ -190,6 +195,7 @@ cursor: pointer}
 .testimonials ul li.active{background-color: #32ca73}
 .testimonials ul li:hover{background-color: #32ca73}
 /* end testimonials */
+
 /* start Portfolio */
 .portfolio{padding-top: 50px;padding-bottom: 70px;text-align: center}
 
@@ -203,6 +209,7 @@ cursor: pointer}
   background-color: #fff;
   border: 1px solid #ccc}
 /* end Portfolio */
+
 /* start contact me  */
 .contact{overflow: hidden;background-color: #252f31;padding-top: 50px;padding-bottom: 70px}
 .contact .info{width: 50%;margin-right: 5%}
@@ -235,6 +242,7 @@ cursor: pointer}
   margin-top: 10px;
 }
 /* end contact me  */
+
 /* start footer */
 .footer{
   background-color: #191e22;
@@ -263,4 +271,4 @@ cursor: pointer}
 .fl-left{float: left}
 p{line-height: 1.7;color: #888}
 h2, h3{color: #777}
-/* start my framework */
+/* end my framework */
